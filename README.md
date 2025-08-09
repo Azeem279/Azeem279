@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/Azeem279/Azeem279/main/WhatsApp%20Image%202025-07-04%20at%2009.41.14_7b9fcf04.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Azeem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Azeem279/Azeem279/main/0c4a76fd-a7fd-4717-8259-f3a2b2d5dba3.png">
